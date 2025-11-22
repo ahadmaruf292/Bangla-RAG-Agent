@@ -1,5 +1,4 @@
-# Bangla-RAG-Agent
-# Gemini PDF RAG Agent 🤖
+# Bangla-RAG-Agent🤖
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![Langchain](https://img.shields.io/badge/Built%20with-Lanngchhain-orange)
 ![Gemini](https://img.shields.io/badge/Model-Gemini%202.5%20pro-purple)
@@ -30,6 +29,6 @@ This project is a **Retrieval-Augmented Generation (RAG)** system built using **
    git clone [https://github.com/your-username/repo-name.git](https://github.com/your-username/repo-name.git)
    cd repo-name
 2. Install dependencies:
-   /n pip install -r requirements.txt
+   pip install -r requirements.txt
 3. Set up API Key: Create a .env file in the root directory and add your Google API Key:
   GOOGLE_API_KEY=your_google_api_key_here
