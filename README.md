@@ -1,5 +1,9 @@
 # Bangla-RAG-Agent
 # Gemini PDF RAG Agent 🤖
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
+![Langchain](https://img.shields.io/badge/Built%20with-Lanngchhain-orange)
+![Gemini](https://img.shields.io/badge/Model-Gemini%202.5%20pro-purple)
+![License](https://img.shields.io/badge/License-Apache2.0-green)
 
 This project is a **Retrieval-Augmented Generation (RAG)** system built using **LangChain** and **Google Gemini**. It allows users to interact with a PDF document by asking natural language questions, receiving accurate answers based on the file's content.
 
