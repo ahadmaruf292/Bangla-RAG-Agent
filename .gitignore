@@ -1,18 +1,20 @@
-# Build and Release Folders
-bin-debug/
-bin-release/
-[Oo]bj/
-[Bb]in/
+# Environment Variables (Never upload this!)
+.env
 
-# Other files and folders
-.settings/
+# Python Virtual Environment
+venv/
+env/
+.venv/
 
-# Executables
-*.swf
-*.air
-*.ipa
-*.apk
+# Byte-compiled / Optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
 
-# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
-# should NOT be excluded as they contain compiler settings and other important
-# information for Eclipse / Flash Builder.
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS specific files
+.DS_Store
+Thumbs.db.
