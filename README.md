@@ -30,6 +30,6 @@ This project is a **Retrieval-Augmented Generation (RAG)** system built using **
    git clone [https://github.com/your-username/repo-name.git](https://github.com/your-username/repo-name.git)
    cd repo-name
 2. Install dependencies:
-   pip install -r requirements.txt
+   /n pip install -r requirements.txt
 3. Set up API Key: Create a .env file in the root directory and add your Google API Key:
   GOOGLE_API_KEY=your_google_api_key_here
